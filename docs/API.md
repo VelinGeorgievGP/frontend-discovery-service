@@ -220,6 +220,10 @@ Example Request:
 
 ```
 
+---
+**NOTE**: When adding the first MicroFrontend version, the "deploymentStrategy" property must be omitted from the payload.
+---
+
 Example Response:
 
 ```json
